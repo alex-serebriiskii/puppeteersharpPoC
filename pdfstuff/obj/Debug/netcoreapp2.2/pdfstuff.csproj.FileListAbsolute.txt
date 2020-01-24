@@ -1,0 +1,11 @@
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\bin\Debug\netcoreapp2.2\pdfstuff.deps.json
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\bin\Debug\netcoreapp2.2\pdfstuff.runtimeconfig.json
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\bin\Debug\netcoreapp2.2\pdfstuff.runtimeconfig.dev.json
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\bin\Debug\netcoreapp2.2\pdfstuff.dll
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\obj\Debug\netcoreapp2.2\pdfstuff.csprojAssemblyReference.cache
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\obj\Debug\netcoreapp2.2\pdfstuff.csproj.CoreCompileInputs.cache
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\obj\Debug\netcoreapp2.2\pdfstuff.AssemblyInfoInputs.cache
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\obj\Debug\netcoreapp2.2\pdfstuff.AssemblyInfo.cs
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\bin\Debug\netcoreapp2.2\pdfstuff.pdb
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\obj\Debug\netcoreapp2.2\pdfstuff.dll
+F:\Code_Projects\work_projects\puppeteersharpPoC\pdfstuff\obj\Debug\netcoreapp2.2\pdfstuff.pdb
